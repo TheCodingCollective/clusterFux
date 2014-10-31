@@ -7,7 +7,7 @@ To understand the intricacies of clustering methods on RNAseq data.
 
 ##Method
 
-Analyze the same [data set]() with different clustering methods.  Ideally remain inside the R enviroment. Please view/add/edit to [wiki](https://github.com/TheCodingCollective/clusterFux/wiki) for more. 
+Analyze the same [data set](https://github.com/TheCodingCollective/clusterFux/tree/master/data) with different clustering methods.  Ideally remain inside the R enviroment. Please view/add/edit to [wiki](https://github.com/TheCodingCollective/clusterFux/wiki) for more. 
 
 ###Clustering
 1. kohonen (Self Organizing Maps) -  R, need to pick the # clusters 
