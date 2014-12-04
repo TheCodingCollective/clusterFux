@@ -1,6 +1,5 @@
 clusterFux
 ==========
-
 ##Purpose
 
 To understand the intricacies of clustering methods on RNAseq data.  
@@ -22,3 +21,4 @@ Analyze the same [data set](https://github.com/TheCodingCollective/clusterFux/tr
 3. PCOA
 4. NMDS
 5. CoCA
+>>>>>>> upstream/master
